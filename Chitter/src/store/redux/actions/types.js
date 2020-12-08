@@ -1,0 +1,11 @@
+export const SET_USERDATA = "SET_USERDATA";
+export const NOT_LOADING = "NOT_LOADING";
+export const START_LOADING = "START_LOADING";
+export const CHECK_ASYNC = "CHECK_ASYNC";
+export const SET_APPID = "SET_APPID";
+export const SET_ROOM_DATA = "SET_ROOM_DATA";
+export const SET_NEWS_DATA = "SET_NEWS_DATA";
+export const SET_PACKAGE_DATA = "SET_PACKAGE_DATA";
+export const SET_PROMOTION_DATA = "SET_PROMOTION_DATA";
+export const SET_ALL_REWARD_DATA = "SET_ALL_REWARD_DATA";
+export const SET_EXCHANGE_ALL_DATA = "SET_EXCHANGE_ALL_DATA";
